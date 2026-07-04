@@ -1,0 +1,20 @@
+# 编译输出文件夹
+bin/
+obj/
+
+# Claude本地配置
+.claude/
+
+# Python缓存
+__pycache__/
+*.pyc
+
+# 日志、临时文件
+*.log
+*.tmp
+*.bak
+
+# VS配置
+.vs/
+*.suo
+*.user
